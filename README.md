@@ -6,12 +6,12 @@ Jarrod Wooden's lame circuit
 # Picture to CE1 Simulation
 
 
-![alt text](https://github.com/JarrodWooden/ECE281_CE1/blob/master/SimulationPicture.PNG "Simulation Picture")
+![alt text](https://github.com/JarrodWooden/ECE281_CE1/blob/master/SimulationPicture.PNG?raw=true "Simulation Picture")
 
 
 # Picture of the Truth Table
 
-![alt text](https://github.com/JarrodWooden/ECE281_CE1/blob/master/TruthTable.jpg "Truth Table Picture")
+![alt text](https://github.com/JarrodWooden/ECE281_CE1/blob/master/TruthTable.jpg?raw=true "Truth Table Picture")
 
 #Analysis
 
